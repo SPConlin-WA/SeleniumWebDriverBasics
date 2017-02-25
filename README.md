@@ -6,7 +6,4 @@ The example code contained within this repository was developed as supplementary
 
 <h2>Automation service examples in this project were made possible by:</h2>
 
-[![SauceLabs](/images/SauceLabs.png)](https://saucelabs.com)
-<p>
-</p>
-[![BrowserStack](/images/BrowserStack.png)](https://browserstack.com)
+[![SauceLabs](/images/SauceLabs.png)](https://saucelabs.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![BrowserStack](/images/BrowserStack.png)](https://browserstack.com)
